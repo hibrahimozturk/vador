@@ -1,0 +1,14 @@
+data/object_features/*
+data/i3d_features/*
+*.pyc
+
+experiments
+
+object_features/models/faster_rcnn_vg/pretrained_weights/faster_rcnn_res101_vg.pth
+
+object_features/models/i3d/model_rgb.pth
+
+object_features/models/tsm/pretrained/TSM_kinetics_RGB_resnet50_shift8_blockres_avg_segment8_e100_dense_nl.pth
+
+
+/.idea/
